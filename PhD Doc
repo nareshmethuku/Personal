@@ -1,4 +1,12 @@
-asd
+Job title: RSA Archer Developer
+Job Responsibilities at Duke Energy.
+•	Involved in gathering business requirements for Patch Management, Cyber assets, Asset Reconciliation, Compliance Activities, Policy Management solutions.
+•	Participating in agile ceremonies like sprint planning, backlog refinement, sprint retrospective and demo’s
+•	Configuring different flavors of datafeeds from different source systems (Archer to Archer, File transporter, Database query etc.,)
+•	Configuring workflows with access roles, layouts, fields, rules, actions, notifications, reports, dashboards, iViews as per requirements.
+•	Performed analysis on automating log errors consumed by Splunk from RSA Archer and creating auto incident tickets via BMC Remedy.
+•	Troubleshooting identified log errors while installing package from different environments and bouncing servers as necessary 
+
 
 
 
